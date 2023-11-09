@@ -1,0 +1,34 @@
+#box{
+    height: 700px;
+    width: 90%;
+    border: 2px solid red;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.box1{
+    border: 2px solid blue;
+    height: 93%;
+    width: 22%;
+    margin-top: 7px;
+
+}
+.Box1{
+    border: 2px solid greenyellow;
+    height: 15%;
+    width: 90%;
+    margin: auto;
+    margin-top: 37px;
+}
+
+.box1 h6{
+    font-size: small;
+    margin-left: 10px;
+}
+.boX1{
+    border: 2px solid black;
+    height: 90%;
+    width: 98%;
+
+}

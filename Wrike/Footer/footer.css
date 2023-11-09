@@ -1,0 +1,146 @@
+#footer1{
+    height: 420px;
+    width: 100%;
+    /* border: 2px solid blue; */
+    background-color: #181f38;
+}
+
+.next{
+    /* border: 2px solid red; */
+    height: 70%;
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+
+.next h1{
+font-size: xx-large;
+text-align: center;
+color: white;
+font-weight: 900;
+}
+
+.next p{
+    text-align: center;
+    color: white;
+    font-size: medium;
+}
+
+.next input{
+    height: 98%;
+    text-align: center;
+    font-size: x-large;
+    border-radius: 7px;
+
+}
+
+
+.next1{
+    /* border: 2px solid pink; */
+    text-align: center;
+    height: 45%px;
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+.next1 button{
+    background-color:  #05BF6E;
+    font-size: x-large;
+    color: white;
+    font-weight: 300;
+    height: 100%;
+    border-radius: 10px;
+}
+
+#footer2{
+    height: 800px;
+    width: 100%;
+    /* border: 2px solid black; */
+    background-color: #0C3245;
+}
+#foot{
+    height: 500px;
+    width: 96%;
+    /* border: 2px solid rgb(208, 89, 89); */
+    background-color: #0C3245;
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+}
+.footerr{
+    height: 393px;
+    width: 14%;
+    /* border: 2px solid green; */
+    margin-top: 50px;
+
+}
+
+.footerr h3{
+    color: white;
+    margin-left: 10px;
+}
+
+.footerr p{
+ margin-left: 10px;
+ color: gray;
+}
+.footerr :hover{
+    color: aqua;
+    text-decoration: underline;
+}
+#footer3{
+    height: 240px;
+    width: 90%;
+    /* border: 2px solid red; */
+    margin: auto;
+    display: flex;
+}
+.foot3{
+    height: 90%;
+    width: 45%;
+    /* border: 2px solid firebrick; */
+    margin: auto;
+}
+.foot3 h3{
+    color: white;
+    margin-left: 10px;
+}
+
+.foot3 p{
+    margin-left: 10px;
+    color: gray;
+   }
+.foot3 h5{
+    margin-left: 10px;
+    color: gray;
+   }
+
+   .foot3 :hover p{
+    color: aqua;
+    text-decoration: underline;
+}
+   
+#btn{
+    height: 50px;
+    width: 70%;
+    /* border: 2px solid goldenrod; */
+    display: flex;
+    justify-content: space-around;
+    margin-left: 12px;
+}
+
+.fam{
+    height: 90%;
+    width: 55%;
+    /* border: 2px solid red; */
+}
+.fam1{
+    height: 90%;
+    width: 37%;
+    /* border: 2px solid red; */
+}
+input{
+    height: 90%;
+    width: 89%;
+}
